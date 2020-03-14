@@ -34,7 +34,7 @@ clasp open
 
 In api.gs
 ```
-var baseUrl = "https://YOUR-DOMAIN.org/iii/sierra-api/v5/";
+var baseUrl = "https://YOUR-DOMAIN.org/iii/sierra-api/v5,6}/";
 ```
 
 In main.gs:
